@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Alex-ander-Verte
 - 👀 I’m interested in Data analysis, SQL, Python
 - 🌱 I’m currently learning data analysis in Netology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... e-mail: alexandraver18@gmail.com
 
 <!---
 Alex-ander-Verte/Alex-ander-Verte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
